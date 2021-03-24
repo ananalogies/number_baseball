@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "lib": [
+            "ES5",
+            "ES2015", // === ES6
+            "ES2016", // 배열에서 include를 사용하려면 필요
+            "ES2017", // async, await
+            "ES2019",
+            "ES2020",
+            "DOM",
+        ],
+    },
+}
